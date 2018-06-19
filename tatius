@@ -1,0 +1,89 @@
+[33mcommit 6939d22c2ae952c80eca2fd08ddeb04b560086c2[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cd87 <camillo.davino@gmail.com>
+Date:   Tue Jun 19 10:07:53 2018 +0200
+
+    commit Class2
+
+[33mcommit 6428b51288bba79f9fe08fa75adcc788da5e1848[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Tue Jun 19 09:57:59 2018 +0200
+
+    primo commit
+
+[33mcommit 49f67fa67b79f2d3ba272299c560ef9f5186fdb2[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Tue Jun 19 09:48:10 2018 +0200
+
+    Cancellazione file
+
+[33mcommit 58b07f78e3ec276075137f3cc74f3e2bffd46a8e[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Tue Jun 19 09:45:08 2018 +0200
+
+    pulizia
+
+[33mcommit 292253f25e57a2706d5fe2be78c4b078695d6a04[m
+Merge: 0a40dac 653484b
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 17:30:10 2018 +0200
+
+    Merge tag '1.0.0' into develop
+    
+    1.0.0
+
+[33mcommit 653484b3436df73bafaacf1a4fe22dbd0a936b80[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Merge: 4149266 0a40dac
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 17:30:01 2018 +0200
+
+    Merge branch 'release/1.0.0'
+
+[33mcommit 0a40dac0ba8b79abb24467a51f0e9b7e47abcdc6[m
+Merge: 4149266 9dbf136
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 17:23:50 2018 +0200
+
+    Merge branch 'feature/newfeature' into develop
+
+[33mcommit 9dbf13606d3d1eb3988120d3fa409b7ca71433cf[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 17:22:31 2018 +0200
+
+    test
+
+[33mcommit 5fa94df4c9ce81dc7a9b118e8c406e1ad4d07357[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 17:22:08 2018 +0200
+
+    test
+
+[33mcommit 41492664b2e957fcc12ae349670dbec608f783c6[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 8c3b47d 93c15cf
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 15:29:38 2018 +0200
+
+    Merge branch 'develop'
+
+[33mcommit 93c15cf335ba16837f434c9e0b66d32ace33602d[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 15:17:45 2018 +0200
+
+    terzo file
+
+[33mcommit 8c3b47d5f8d6f1b0eb0edaed7999d933e44b6eb5[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 15:16:21 2018 +0200
+
+    terzo file
+
+[33mcommit 5aca246a11e88ce7ba1dd4babf047addd0ec34f0[m
+Author: ITALY\eperaino <edoardo.peraino@eng.it>
+Date:   Mon Jun 18 15:03:27 2018 +0200
+
+    secondo file
+
+[33mcommit f0925f59c993fd6f4b4cd6db048552371bf8729c[m
+Author: Peraino Edoardo <Edoardo.Peraino@eng.it>
+Date:   Mon Jun 18 11:50:22 2018 +0200
+
+    test 3
