@@ -8,5 +8,7 @@ namespace CorsoDevOps
 {
     class Class2
     {
+        public int edo;
+        private char edo2;
     }
 }
