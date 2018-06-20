@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsoDevOps", "CorsoDevOps\CorsoDevOps.csproj", "{4E55FE8B-CF10-480C-9522-D695816127F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsoDevOps.Tests", "CorsoDevOps.Tests\CorsoDevOps.Tests.csproj", "{109A96B0-43BD-45EA-8D68-6971C64D5DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E55FE8B-CF10-480C-9522-D695816127F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E55FE8B-CF10-480C-9522-D695816127F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E55FE8B-CF10-480C-9522-D695816127F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109A96B0-43BD-45EA-8D68-6971C64D5DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109A96B0-43BD-45EA-8D68-6971C64D5DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109A96B0-43BD-45EA-8D68-6971C64D5DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109A96B0-43BD-45EA-8D68-6971C64D5DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
